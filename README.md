@@ -1,4 +1,5 @@
-# Jogo de azar python / Flork do cyber
+# Jogo de azar python / Fork do cyber
+![All](https://github.com/CyberTerrorist-x/jogo/blob/main/InShot_20210903_192613875.jpg)
 
 ### Instalação Termux
 
