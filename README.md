@@ -1,4 +1,4 @@
-# Jogo de azar python Flork do cyber
+# Jogo de azar python / Flork do cyber
 
 ### Instalação Termux
 
