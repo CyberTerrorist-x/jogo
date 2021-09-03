@@ -1,23 +1,27 @@
-# Jogo de azar python 
+# Jogo de azar python Flork do cyber
 
-## Um simples programa de azar
-
-<br>
-
-`pkg install python`
+### Instalação Termux
 
 <br>
 
-`pkg install git`
+* `pkg install python`
 
 <br>
 
-`git clone https://github.com/BunnyGhost/jogo/ `
+* `pkg install git`
 
 <br>
 
-`cd jogo`
+* `git clone https://github.com/BunnyGhost/jogo/ `
 
 <br>
 
-`python jogo.py`
+* `cd jogo`
+
+<br>
+
+* `python jogo.py`
+
+> Créditos BunnyGhost 
+> Esfirra e bom
+> Obrigado Yasmin (yasminhasbola)
